@@ -15,11 +15,10 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
     "homepage": "https://itztarunsingh.github.io/shop-n-savor/"
-
     
   },
   
-  "scripts": {
+"scripts": {
     "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
     "start": "react-scripts start",
